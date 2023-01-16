@@ -27,4 +27,8 @@
 <p>
 <a href="https://docs.google.com/spreadsheets/d/1Tk1o9H1DOexpI_TBb67P8eLGnTy1sAkP4-DLHrFm-kY/edit?usp=share_link">Test cases</a>
 </p>
-
+<br>
+<h1>Site ".." (prod version)</h1>
+<p>
+<a href="https://docs.google.com/spreadsheets/d/1enBtLJyx1p0wyBjUoj3WaFdGeX3GlystJ1f-mdV4GHU/edit?usp=share_link">Checklist</a>
+</p>
